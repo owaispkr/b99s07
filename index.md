@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Brooklyn Nine-Nine</title>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"
+      integrity="sha512-dqw6X88iGgZlTsONxZK9ePmJEFrmHwpuMrsUChjAw1mRUhUITE5QU9pkcSox+ynfLhL15Sv2al5A0LVyDCmtUw=="
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css"
+      integrity="sha512-8bHTC73gkZ7rZ7vpqUQThUDhqcNFyYi2xgDgPDHc+GXVGHXq+xPjynxIopALmOPqzo9JZj0k6OqqewdGO3EsrQ=="
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="ui grid">
+      <div class="sixteen wide column">
+        <img
+          class="ui fluid image"
+          src="https://img1.looper.com/img/gallery/the-real-reason-fox-canceled-brooklyn-nine-nine/intro-1579801657.jpg"
+        />
+      </div>
+      <div class="sixteen wide column">
+        <table class="ui celled padded table">
+          <thead>
+            <tr>
+              <th class="single line">Evidence Rating</th>
+              <th>Season</th>
+              <th>Episode</th>
+              <th>Comments</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 1: <strong>Manhunter</strong></div>
+              </td>
+              <td>
+                Jake leads a manhunt after an assassination attempt on a city
+                councillor. Holt adjusts to his new position as a uniformed
+                officer.
+              </td>
+              <td>
+                <a
+                  href="https://drive.google.com/file/d/1ROvnmwY4JAtP6YfJknXGksGSVXrm9DFf/view?usp=sharing"
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 2: <strong>Captain Kim</strong></div>
+              </td>
+              <td>
+                A new captain at the Nine-Nine attempts to ingratiate herself
+                with Jake and the squad by inviting them over to her house for a
+                dinner party.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 3: <strong>Pimemento</strong></div>
+              </td>
+              <td>
+                Adrian Pimento shows up unexpectedly to seek Jake and Charles'
+                help after claiming someone is trying to kill him; the rest of
+                the squad endures a workplace conflict seminar.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 4: <strong>The Jimmy Jab Games II</strong></div>
+              </td>
+              <td>
+                The team rushes with a dose of competitive juices as Jake and
+                the squad compete in the second Jimmy Jab Games.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 5: <strong>Debbie</strong></div>
+              </td>
+              <td>
+                When cocaine and weapons are stolen from the evidence lock-up,
+                the squad must investigate the Nine-Nine itself.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 6: <strong>Trying</strong></div>
+              </td>
+              <td>
+                Jake and Amy work an uncrackable case while Holt adjusts to a
+                new beat; Hitchcock looks for the love of his life.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 7: <strong>Ding Dong</strong></div>
+              </td>
+              <td>
+                Captain Holt deals with a personal loss. Jake must decide
+                whether to take Terry or Charles to an exclusive event.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 8: <strong>The Takeback</strong></div>
+              </td>
+              <td>
+                Doug Judy is back, and this time, things between him and Jake
+                are personal; Amy and Charles try to find the perfect new
+                vending machine for the Nine-Nine.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 9: <strong>Dillman</strong></div>
+              </td>
+              <td>
+                When a prank goes disastrously wrong, things at the Nine-Nine
+                take a distinctly Agatha Christie turn.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 10: <strong>Admiral Peralta</strong></div>
+              </td>
+              <td>
+                Jake and his father deal with unsettled family business; Amy and
+                Rosa work a high-profile case; Terry wants to join the NYPD
+                band.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 11: <strong>Valloweaster</strong></div>
+              </td>
+              <td>
+                The squad competes in an effort to determine who is the greatest
+                human/genius.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 12: <strong>Ransom</strong></div>
+              </td>
+              <td>
+                Holt asks for Jake's help in a case that is exceptionally
+                meaningful to him; Charles and Terry work together on a side
+                business.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <h2 class="ui center aligned header">A</h2>
+              </td>
+              <td class="single line">Season 7</td>
+              <td>
+                <div>Episode 13: <strong>Lights Out</strong></div>
+              </td>
+              <td>
+                The entire squad is on high alert when a massive blackout hits
+                Brooklyn.
+              </td>
+              <td>
+                <a href=""
+                  ><input type="button" class="ui button" value="View" />
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>
