@@ -291,7 +291,6 @@
             </tr>
           </tbody>
         </table>
-          Enjoy !!!!!!
       </div>
     </div>
   </body>
