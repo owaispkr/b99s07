@@ -16,6 +16,7 @@
     />
   </head>
   <body>
+    body starts
     <div class="ui grid">
       <div class="sixteen wide column">
         <img
