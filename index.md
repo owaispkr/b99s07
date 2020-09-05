@@ -16,7 +16,6 @@
     />
   </head>
   <body>
-    body starts
     <div class="ui grid">
       <div class="sixteen wide column">
         <img
@@ -71,7 +70,8 @@
                 dinner party.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1SmYoU9P0JLewsV1HL9edoZ04HYUg545a/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -91,7 +91,8 @@
                 the squad endures a workplace conflict seminar.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1ijA4y7_F_WRhvw-8JWl_Q9hdhA3FehPq/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -110,7 +111,8 @@
                 the squad compete in the second Jimmy Jab Games.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1K7nkN7M3iEyCPsxNlqeFxIkoUepp7KJO/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -129,7 +131,8 @@
                 the squad must investigate the Nine-Nine itself.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1T6_YaAVs3gJttS3rNK5xt8XCq_VH17Hn/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -148,7 +151,8 @@
                 new beat; Hitchcock looks for the love of his life.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1lXaYo-gWayX2pwfEyzku0zwCoTdPcrwG/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -167,7 +171,8 @@
                 whether to take Terry or Charles to an exclusive event.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1EQUaGDENsCIgY_BD2Y7o2lq7Er30wwPl/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -187,7 +192,8 @@
                 vending machine for the Nine-Nine.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/19h6rgzFezWt2BFh9pOTZFeSTAdLVUt5C/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -206,7 +212,8 @@
                 take a distinctly Agatha Christie turn.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/17c6SwPhdSNJE286LOIB7VgYUHIgLrNhh/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -226,7 +233,8 @@
                 band.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1GqBpW_XZfzOTOWkn3ro2tktw531AOHLs/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -245,7 +253,8 @@
                 human/genius.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1YIEjvV8nCwHA3ma5lxh0NPzYu4Tt5SEI/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -265,7 +274,8 @@
                 business.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1cHcYQmyqofqjtrr6wg1Dtbl9EL8mMZIQ/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
@@ -284,7 +294,8 @@
                 Brooklyn.
               </td>
               <td>
-                <a href=""
+                <a
+                  href="https://drive.google.com/file/d/1l9kKENurkdn52ZM-cPIsVWe346Ht1Cfl/view?usp=sharing"
                   ><input type="button" class="ui button" value="View" />
                 </a>
               </td>
