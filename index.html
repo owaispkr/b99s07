@@ -12,9 +12,9 @@
 
           var index = anchors[i].href.indexOf('com/');
           var newHref = anchors[i].href.substring(index + 4);
-          console.log(document.referrer + newHref);
-          anchors[i].href = document.referrer + newHref;
-          anchors[i].text = document.referrer + '';
+          console.log(parent.document.location.origin + newHref);
+          anchors[i].href = parent.document.location.origin + newHref;
+          anchors[i].text = parent.document.location.origin + '';
         }
       };
     </script>
