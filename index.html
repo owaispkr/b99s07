@@ -8,9 +8,13 @@
         var anchors = document.getElementsByClassName('saba-content-link');
 
         for (var i = 0; i < anchors.length; i++) {
+          console.log(anchors[i]);
+
           var index = anchors[i].href.indexOf('com/');
           var newHref = anchors[i].href.substring(index + 4);
+          console.log(document.referrer + newHref);
           anchors[i].href = document.referrer + newHref;
+          anchors[i].text = document.referrer + '';
         }
       };
     </script>
@@ -36,8 +40,8 @@
         <a
           class="btn btn-primary btn-primary__special saba-content-link"
           href="https://uateducationhub.fphcare.com/"
-          >https://uateducationhub.fphcare.com/ Log in to learn </a
-        >
+          >https://uateducationhub.fphcare.com/ Log in to learn
+        </a>
       </div>
       <div class="sixteen wide column">
         <table class="ui celled padded table">
