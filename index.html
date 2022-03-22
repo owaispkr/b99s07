@@ -3,6 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <title>Brooklyn Nine-Nine</title>
+    <script>
+      window.onload = function () {
+        var anchors = document.getElementsByClassName('saba-content-link');
+
+        for (var i = 0; i < anchors.length; i++) {
+          var index = anchors[i].href.indexOf('com/');
+          var newHref = anchors[i].href.substring(index + 4);
+          anchors[i].href = document.referrer + newHref;
+        }
+      };
+    </script>
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"
       integrity="sha512-dqw6X88iGgZlTsONxZK9ePmJEFrmHwpuMrsUChjAw1mRUhUITE5QU9pkcSox+ynfLhL15Sv2al5A0LVyDCmtUw=="
@@ -18,10 +29,15 @@
   <body>
     <div class="ui grid">
       <div class="sixteen wide column">
-        <img
+        <!-- <img
           class="ui fluid image"
           src="https://img1.looper.com/img/gallery/the-real-reason-fox-canceled-brooklyn-nine-nine/intro-1579801657.jpg"
-        />
+        /> -->
+        <a
+          class="btn btn-primary btn-primary__special saba-content-link"
+          href="https://uateducationhub.fphcare.com/"
+          ><span>Log in to learn </span></a
+        >
       </div>
       <div class="sixteen wide column">
         <table class="ui celled padded table">
